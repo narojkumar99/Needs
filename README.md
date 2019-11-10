@@ -25,7 +25,7 @@ allprojects {
 }
 ```
 
-And add a dependency code to your **module**'s `build.gradle` file.
+And add a dependency code to your **module**' `build.gradle` file.
 ```gradle
 dependencies {
     implementation "com.github.skydoves:needs:1.0.7"
